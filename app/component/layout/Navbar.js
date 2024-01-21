@@ -129,7 +129,7 @@ export default function Navbar() {
                 <div className="">
                   <Link href="" className="text-2xl text-brandTwo">
                     {/* <span className="text-yellow-600 pr-1">FARIH</span> */}
-                    <Image src={Logo} className="md:w-[150px] w-[80px]" />
+                    <Image alt="logo" src={Logo} className="md:w-[150px] w-[80px]" />
                   </Link>
                 </div>
                 {/* logo */}
