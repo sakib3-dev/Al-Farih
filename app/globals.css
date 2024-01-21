@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.home-slider{
+    background: url(../app/assets/images/slider_1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
